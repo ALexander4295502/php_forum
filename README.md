@@ -1,4 +1,4 @@
-# Module 3 Group Part
+# php_forum
 
 ### Intro
 This a simple news-sharing website that supports various users to post/delete/edit/view stories, have comments on stories and post/delete/edit/view comments.
@@ -13,5 +13,3 @@ This a simple news-sharing website that supports various users to post/delete/ed
 - 1 Everyone can search stories by keywords in either the subject or the body
 - 2 User can choose a category that their story belongs to. Categories will be list on the main website page
 - 3 There is an administrator account who has the right to add/edit/delete any category. (See login details)
-
-# php_forum
